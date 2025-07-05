@@ -3,8 +3,8 @@
 # MBC Laboratory Website
 
 ![MBC Laboratory Logo](gambar%20logo%20mbc.png)
-
-Official website for MBC Laboratory (Multimedia, Big Data, and Cyber Security Laboratory) at Telkom University.
+Mohammad Nur Afrizal Pahlevi / 101012300409
+Tugas Rekruitasi landing page dan website.
 
 ## Table of Contents
 - [Project Description](#project-description)
